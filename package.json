@@ -41,5 +41,8 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0"
+  },
+  "engines": {
+    "node": "12.0"
   }
 }
